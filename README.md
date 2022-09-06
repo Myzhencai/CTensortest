@@ -1,2 +1,2 @@
 # CTensortest
-C++ use tensorflow
+C++ use tensorflow for eye glint detect
